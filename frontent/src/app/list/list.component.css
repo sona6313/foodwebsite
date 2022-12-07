@@ -1,0 +1,30 @@
+form
+{
+    margin-top: 10%;
+    width: 50%;
+}
+img 
+{
+    border-radius: 6px;
+    padding: 10px 20px;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+@media screen and (max-width:600px) {
+    form 
+    {
+        width: 100%;
+    }
+}
+section
+{
+     height: 110vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+ background-image: url("https://i.pinimg.com/originals/aa/a6/84/aaa684fc7767831dde31a5b7e855565a.jpg")
+
+} 
